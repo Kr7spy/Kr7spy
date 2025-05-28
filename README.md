@@ -17,7 +17,7 @@ Experience:
    - My experience in Bug Bounty programs can be observed in detail below
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristjan-p-baa198136/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/KristjanPolitis) 
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%81ee1b.svg?logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/users/1769957) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristjan-p-baa198136/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/KristjanPolitis) 
 
 [![](https://visitcount.itsvg.in/api?id=kr7spy&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
